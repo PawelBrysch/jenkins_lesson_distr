@@ -1,0 +1,1 @@
+C:\Users\Lenovo\Desktop\top_lesson_jenkins_dist\jenkins_lesson_distr\venv\Scripts\python.exe manage.py runserver
